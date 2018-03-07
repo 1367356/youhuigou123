@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="shop_background_main" target="1.8" />
+      <module name="shop_background_test" target="1.8" />
+      <module name="shop_data_main" target="1.8" />
+      <module name="shop_data_test" target="1.8" />
+      <module name="shop_fore_main" target="1.8" />
+      <module name="shop_fore_test" target="1.8" />
+      <module name="shop_pay_main" target="1.8" />
+      <module name="shop_pay_test" target="1.8" />
+      <module name="shop_search_main" target="1.8" />
+      <module name="shop_search_test" target="1.8" />
+      <module name="shop_util_main" target="1.8" />
+      <module name="shop_util_test" target="1.8" />
+      <module name="youhuigou_main" target="1.8" />
+      <module name="youhuigou_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
