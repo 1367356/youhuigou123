@@ -2,123 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a26fee4-f372-496d-955f-e877eb80ded6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__c3p0_c3p0_0_9_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_belerweb_pinyin4j_2_5_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_carrotsearch_hppc_0_7_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_8_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_18_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_itextpdf_itext_asian_5_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_itextpdf_itextpdf_5_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ning_compress_lzf_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_spatial4j_spatial4j_0_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jna_jna_3_0_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tdunning_t_digest_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_twitter_jsr166e_1_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_beanutils_commons_beanutils_1_9_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_cli_commons_cli_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_lang_commons_lang_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_3_10_6_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_ws_rs_javax_ws_rs_api_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_9_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__log4j_log4j_1_2_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_35.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_44.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sourceforge_jexcelapi_jxl_2_6_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_io_1_3_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_cxf_cxf_core_3_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_cxf_cxf_rt_frontend_jaxrs_3_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_cxf_cxf_rt_rs_client_3_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_cxf_cxf_rt_transports_http_3_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_cxf_cxf_spring_boot_autoconfigure_3_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_cxf_cxf_spring_boot_starter_jaxrs_3_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_api_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_analyzers_common_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_backward_codecs_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_core_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_grouping_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_highlighter_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_join_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_memory_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_misc_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_queries_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_queryparser_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_sandbox_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial3d_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_spatial_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_lucene_lucene_suggest_5_5_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_poi_poi_3_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_3_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_poi_poi_ooxml_schemas_3_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_cache_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_config_core_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_core_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_core_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_event_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_lang_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_spring_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_shiro_shiro_web_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_tomcat_juli_8_5_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ws_xmlschema_xmlschema_core_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_elasticsearch_2_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_elasticsearch_securesm_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hdrhistogram_HdrHistogram_2_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_3_4_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_quartz_scheduler_quartz_2_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_elasticsearch_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_13_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_elasticsearch_2_1_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__stax_stax_api_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/shop_domain.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/shop_domain/shop_domain_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/shop_domain/shop_domain_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/desc.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/mapper/DetailDisplayMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/mapper/GetListByPageMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/pojo/RecParameter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/DetailDisplayService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/GetListByPageService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/DetailDisplayServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/GetListByPageServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/log4j2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/logs/debug.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mapper/DetailDisplayMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mapper/GetListByPageMapper.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mybatis-config.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_util/src/main/java/excel/ReadExcel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_util/src/main/java/excel/WriteExcel.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_util/src/main/java/excel/pojo/Product.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_util/src/main/java/excel/pojo/RecParameter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_util/src/main/resources/test1.xls" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/test/java/browserTest/ElasticUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shop_background/src/test/java/browserTest/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/simulateBrowser/Test.java" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_main.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_main.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_test.iml" />
-      <change beforePath="$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBackgrouondMainClass.java" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBackgrouondMainClass.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/shop_background/build.gradle" afterPath="$PROJECT_DIR$/shop_background/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/application.yml" afterPath="$PROJECT_DIR$/shop_background/out/production/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -192,21 +92,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/application.yml">
+      <file leaf-file-name="ElasticUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop_background/src/test/java/browserTest/ElasticUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DetailDisplayMapper.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/mapper/DetailDisplayMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="393">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -214,89 +104,174 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringBackgrouondMainClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBackgrouondMainClass.java">
+      <file leaf-file-name="Method.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/reflect/Method.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="80">
+              <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
+                <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1517832771462" expanded="false" signature="141:741" ph="..." />
+                <marker date="1517832771462" expanded="false" signature="1324:1335" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="1357:1363" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="1405:1416" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="1480:1486" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="1526:1718" ph="{...}" />
+                <marker date="1517832771462" expanded="true" signature="1882:2250" ph="{...}" />
+                <marker date="1517832771462" expanded="true" signature="2270:2761" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="2787:2798" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="2815:2821" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="2858:2869" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="2911:2917" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="2950:2961" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="2985:2991" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="3032:3043" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="3061:3067" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="3096:3107" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="3124:3130" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="3161:3172" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="3194:3200" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="3256:3414" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="3451:3462" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="3485:3491" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="3532:3661" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="3704:3715" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="3759:3765" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="3801:3812" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="3846:3852" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="3898:3909" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="3949:3955" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="3998:4009" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="4053:4059" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="4105:4116" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="4156:4162" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="4203:4668" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="4695:4706" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="4787:4793" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="4824:4955" ph="{...}" />
+                <marker date="1517832771462" expanded="true" signature="5009:5195" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="5232:5243" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="5323:5329" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="5390:5609" ph="{...}" />
+                <marker date="1517832771462" expanded="true" signature="5769:6186" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="6217:6228" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="6267:6273" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="6305:6316" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="6341:6347" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="6381:6392" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="6419:6425" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="6457:6468" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="6551:6557" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="6610:6968" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="7008:7019" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="7046:7052" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="7102:7236" ph="{...}" />
+                <marker date="1517832771462" expanded="true" signature="7274:7872" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="7938:7949" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="7982:7988" ph=" }" />
+                <marker date="1517832771462" expanded="false" signature="8038:8049" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="8087:8093" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="8147:8253" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="8304:8315" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="8380:8386" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="8447:8553" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DetailDisplayService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/DetailDisplayService.java">
+      <file leaf-file-name="FrameworkMethod.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetListByPageMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/mapper/GetListByPageMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="102">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1657#1658#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DetailDisplayServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/DetailDisplayServiceImpl.java">
+      <file leaf-file-name="ReflectiveCallable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="102">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InvokeMethod.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockJUnit4ClassRunner.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParentRunner.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NativeMethodAccessorImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1517832771462" expanded="false" signature="135:249" ph="..." />
+                <marker date="1517832771462" expanded="false" signature="467:478" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="497:503" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="617:1158" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="1213:1224" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="1243:1249" ph=" }" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mybatis-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mybatis-config.xml">
+      <file leaf-file-name="DelegatingMethodAccessorImpl.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="80">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1517832771462" expanded="false" signature="344:355" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="378:384" ph=" }" />
+                <marker date="1517832771462" expanded="true" signature="498:554" ph="{...}" />
+                <marker date="1517832771462" expanded="false" signature="601:612" ph=" { " />
+                <marker date="1517832771462" expanded="false" signature="633:639" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/build.gradle">
+      <file leaf-file-name="JUnitCore.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1323">
-              <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetListByPageService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/GetListByPageService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetListByPageServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/GetListByPageServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" column="69" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="69" />
+            <state relative-caret-position="102">
+              <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -307,8 +282,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -1839,11 +1814,11 @@
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/.gradle/init.gradle" value="3855063258" />
-        <entry key="$PROJECT_DIR$" value="16721984040827" />
+        <entry key="$PROJECT_DIR$" value="16722047201664" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2474044295" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3816691229" />
-        <entry key="$PROJECT_DIR$/shop_background/build.gradle" value="4267438625" />
+        <entry key="$PROJECT_DIR$/shop_background/build.gradle" value="2347668052" />
         <entry key="$PROJECT_DIR$/shop_data/build.gradle" value="870901821" />
         <entry key="$PROJECT_DIR$/shop_domain/build.gradle" value="870901821" />
         <entry key="$PROJECT_DIR$/shop_fore/build.gradle" value="870901821" />
@@ -2038,7 +2013,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/shop_search/build.gradle" />
         <option value="$PROJECT_DIR$/shop_background/desc.txt" />
         <option value="$PROJECT_DIR$/shop_util/src/main/java/excel/pojo/RecParameter.java" />
@@ -2057,17 +2031,22 @@
         <option value="$PROJECT_DIR$/shop_util/build.gradle" />
         <option value="$PROJECT_DIR$/shop_util/src/main/java/excel/WriteExcel.java" />
         <option value="$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/DetailDisplayServiceImpl.java" />
-        <option value="$PROJECT_DIR$/shop_background/build.gradle" />
         <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBackgrouondMainClass.java" />
         <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/mapper/DetailDisplayMapper.java" />
+        <option value="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/simulateBrowser/Test.java" />
+        <option value="$PROJECT_DIR$/shop_background/src/test/java/browserTest/Test.java" />
+        <option value="$PROJECT_DIR$/shop_background/build.gradle" />
+        <option value="$PROJECT_DIR$/shop_background/src/test/java/browserTest/ElasticUtil.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-11" />
-    <option name="width" value="1277" />
+    <option name="y" value="-11" />
+    <option name="width" value="1290" />
     <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -2111,14 +2090,14 @@
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -2126,68 +2105,9 @@
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="browserTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
@@ -2197,32 +2117,28 @@
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_util" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_util" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_util" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_util" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="excel" type="462c0819:PsiDirectoryNode" />
+              <item name="simulateBrowser" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2235,6 +2151,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../elasticsearchAndIK/elasticsearch/elasticsearch-analysis-ik-master/elasticsearch-analysis-ik-master" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -2260,7 +2177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ElasticUtil.getTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -2300,6 +2217,56 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="ElasticUtil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="browserTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="shop_background_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="browserTest" />
+      <option name="MAIN_CLASS_NAME" value="browserTest.ElasticUtil" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ElasticUtil.getTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="browserTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="shop_background_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="browserTest" />
+      <option name="MAIN_CLASS_NAME" value="browserTest.ElasticUtil" />
+      <option name="METHOD_NAME" value="getTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -2361,9 +2328,16 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.SpringBackgrouondMainClass" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ElasticUtil.getTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ElasticUtil" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.SpringBackgrouondMainClass" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ElasticUtil.getTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ElasticUtil" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SpringBackgrouondMainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -2391,9 +2365,40 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ElasticUtil - 2018.03.08 at 16h 27m 31s.xml">
+      <configuration name="ElasticUtil" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 18m 20s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 20m 06s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 22m 13s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 22m 30s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 23m 13s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 25m 52s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 27m 00s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 45m 13s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ElasticUtil_getTest - 2018.03.08 at 16h 47m 40s.xml">
+      <configuration name="ElasticUtil.getTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2402,21 +2407,21 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45083934" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5119904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14592275" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15206812" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2811159" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08208154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27577937" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -2433,34 +2438,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="background build.gradle配置完成" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/shop_background/src/test/java/browserTest/ElasticUtil.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_pay/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -2716,20 +2707,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="33" column="8" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/mapper/GetListByPageMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2750,20 +2733,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1323">
-          <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/DetailDisplayServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="8" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2781,17 +2756,226 @@
         <state relative-caret-position="297">
           <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#501#502#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/dao/mapper/DetailDisplayMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="378">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/simulateBrowser/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/test/java/browserTest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/java/lang/reflect/Method.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding>
+            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517832771462" expanded="false" signature="141:741" ph="..." />
+            <marker date="1517832771462" expanded="false" signature="1324:1335" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="1357:1363" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="1405:1416" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="1480:1486" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="1526:1718" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="1882:2250" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="2270:2761" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="2787:2798" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="2815:2821" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="2858:2869" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="2911:2917" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="2950:2961" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="2985:2991" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="3032:3043" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3061:3067" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="3096:3107" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3124:3130" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="3161:3172" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3194:3200" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="3256:3414" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="3451:3462" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3485:3491" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="3532:3661" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="3704:3715" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3759:3765" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="3801:3812" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3846:3852" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="3898:3909" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="3949:3955" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="3998:4009" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4053:4059" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="4105:4116" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4156:4162" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="4203:4668" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="4695:4706" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="4787:4793" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="4824:4955" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="5009:5195" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="5232:5243" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="5323:5329" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="5390:5609" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="5769:6186" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="6217:6228" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="6267:6273" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="6305:6316" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="6341:6347" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="6381:6392" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="6419:6425" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="6457:6468" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="6551:6557" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="6610:6968" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="7008:7019" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="7046:7052" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="7102:7236" ph="{...}" />
+            <marker date="1517832771462" expanded="true" signature="7274:7872" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="7938:7949" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="7982:7988" ph=" }" />
+            <marker date="1517832771462" expanded="false" signature="8038:8049" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="8087:8093" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="8147:8253" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="8304:8315" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="8380:8386" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="8447:8553" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517832771462" expanded="false" signature="344:355" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="378:384" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="498:554" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="601:612" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="633:639" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../jdk/jdk8/jdk1.8.0_161/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <marker date="1517832771462" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517832771462" expanded="false" signature="135:249" ph="..." />
+            <marker date="1517832771462" expanded="false" signature="467:478" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="497:503" ph=" }" />
+            <marker date="1517832771462" expanded="true" signature="617:1158" ph="{...}" />
+            <marker date="1517832771462" expanded="false" signature="1213:1224" ph=" { " />
+            <marker date="1517832771462" expanded="false" signature="1243:1249" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/test/java/browserTest/ElasticUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

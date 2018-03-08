@@ -45,6 +45,7 @@ dependencies {
             "org.apache.logging.log4j:log4j-core:$log4j_version",
             "org.mybatis.spring.boot:mybatis-spring-boot-starter:$mybatis_spring_boot_version"
     )
+    compile 'org.apache.httpcomponents:httpclient:4.5.3'
     testCompile("org.springframework.boot:spring-boot-starter-test")
     //执行时的依赖
     runtime(
