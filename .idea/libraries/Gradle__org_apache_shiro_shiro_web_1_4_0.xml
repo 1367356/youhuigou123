@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.shiro:shiro-web:1.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-web/1.4.0/3a600b31eb2f7b2ac35342e0a78cf311d430c6d4/shiro-web-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-web/1.4.0/5e6d7b9ea2f17a640f08a8e95d3f43554d4fa3fb/shiro-web-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

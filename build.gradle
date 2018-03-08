@@ -1,0 +1,63 @@
+group 'com.li'
+version '1.0-SNAPSHOT'
+apply plugin: 'java'
+apply plugin: 'application'
+
+
+sourceCompatibility = 1.8
+
+subprojects {
+
+    apply plugin: 'java'
+    apply plugin: 'eclipse'
+    apply plugin: 'idea'
+    version = '1.0'
+
+    // JVM 版本号要求
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    // java编译的时候缺省状态下会因为中文字符而失败
+    [compileJava, compileTestJava, javadoc]*.options*.encoding = 'UTF-8'
+    //定义版本号
+    ext {
+        springBootVersion='1.5.9.RELEASE'
+//        spring_boot_starter_data_jpa_Version='1.5.9.RELEASE'
+        spring_data_jpa='1.9.0.RELEASE'
+        elasticsearch_version='2.4.6'
+        jackson_version='2.8.5'
+        boot_starter_jaxrs_version='3.2.0'
+        jna_version='3.0.9'
+        ojdbc6_version='11.2.0.1.0'
+        shiro_version='1.4.0'
+        pinyin4j_version='2.5.0'
+        poi_version='3.11'
+        httpclient_version='4.5.3'
+        fastjson_version='1.2.8'
+        mail_version='1.4.7'
+        commons_lang_version='2.6'
+        commons_io_version='1.3.2'
+        itext_version='5.2.0'
+        quartz_version='2.2.1'
+        mysql_version='5.1.35'
+        jxl_version='2.6.10'
+        jackson_databind='2.8.10'  //jsonp解析
+        log4j_version='2.7'
+        mybatis_spring_boot_version='1.3.0'
+    }
+    repositories {
+        mavenCentral()
+    }
+    jar {
+        manifest {
+            attributes("Implementation-Title": "Gradle")
+        }
+    }
+    dependencies {
+//        compile('org.springframework.boot:spring-boot-starter-web')
+        testCompile group: 'junit', name: 'junit', version: '4.12'
+    }
+}
+
+
+

@@ -1,0 +1,4 @@
+淘宝客购物网站后台模块：
+向外界发布服务，使用service发布服务，不用controller。
+供android,ios,pc前端等调用。
+本项目可供前端模块fore调用

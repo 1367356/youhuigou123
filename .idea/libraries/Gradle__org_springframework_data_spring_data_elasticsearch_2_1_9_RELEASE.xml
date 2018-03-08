@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-elasticsearch:2.1.9.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-elasticsearch/2.1.9.RELEASE/d3f2ec94007b7053c48f74e5d2024b92f15c025f/spring-data-elasticsearch-2.1.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-elasticsearch/2.1.9.RELEASE/48855b15524cc74e09f6bcc60c6897cf91f1f7ae/spring-data-elasticsearch-2.1.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

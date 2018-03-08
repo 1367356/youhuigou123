@@ -1,0 +1,53 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:$springBootVersion")
+    }
+}
+group "com.li"
+version "1.0-SNAPSHOT"
+apply plugin: "java"                           //java 插件
+apply plugin: "org.springframework.boot"   //spring boot 插件
+apply plugin: "io.spring.dependency-management"
+
+// jar包的名字
+//archivesBaseName="core"
+
+sourceCompatibility = 1.8
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    compile project(":shop_util")
+    compile("org.springframework.boot:spring-boot-starter-web",
+            "org.springframework.boot:spring-boot-starter-activemq",
+            "org.springframework.boot:spring-boot-starter-cache",
+            "org.springframework.boot:spring-boot-starter-data-elasticsearch",
+            "org.springframework.boot:spring-boot-devtools",
+            "org.apache.cxf:cxf-spring-boot-starter-jaxrs:$boot_starter_jaxrs_version",
+//            "org.springframework.boot:spring-boot-starter-data-jpa:$springBootVersion",
+            "com.sun.jna:jna:$jna_version",
+            "mysql:mysql-connector-java:$mysql_version",
+            "com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:$jackson_version",
+            "org.apache.shiro:shiro-spring:$shiro_version",
+            "org.quartz-scheduler:quartz:$quartz_version",
+            "com.belerweb:pinyin4j:$pinyin4j_version",
+            "org.apache.poi:poi:$poi_version",
+            "org.apache.poi:poi-ooxml-schemas:$poi_version",
+            "org.apache.poi:poi-ooxml:$poi_version",
+            "org.apache.commons:commons-io:$commons_io_version",
+            "com.itextpdf:itextpdf:$itext_version",
+            "com.itextpdf:itext-asian:$itext_version",
+            "org.apache.logging.log4j:log4j-core:$log4j_version",
+            "org.mybatis.spring.boot:mybatis-spring-boot-starter:$mybatis_spring_boot_version"
+    )
+    testCompile("org.springframework.boot:spring-boot-starter-test")
+    //执行时的依赖
+    runtime(
+            "org.springframework.boot:spring-boot-devtools"
+    )
+}

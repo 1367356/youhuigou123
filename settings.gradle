@@ -1,0 +1,9 @@
+rootProject.name = 'youhuigou'
+include 'shop_data'
+include 'shop_fore'
+include 'shop_background'
+include 'shop_search'
+include 'shop_util'
+include 'shop_pay'
+include 'shop_domain'
+

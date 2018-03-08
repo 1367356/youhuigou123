@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_background.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_background.iml" group="shop_background" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_background/shop_background_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_main.iml" group="shop_background" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_background/shop_background_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_test.iml" group="shop_background" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_data.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_data.iml" group="shop_data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_data/shop_data_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_data/shop_data_main.iml" group="shop_data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_data/shop_data_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_data/shop_data_test.iml" group="shop_data" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_domain.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_domain.iml" group="shop_domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_domain/shop_domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_domain/shop_domain_main.iml" group="shop_domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_domain/shop_domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_domain/shop_domain_test.iml" group="shop_domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_fore.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_fore.iml" group="shop_fore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_main.iml" group="shop_fore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_test.iml" group="shop_fore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_pay.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_pay.iml" group="shop_pay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_pay/shop_pay_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_pay/shop_pay_main.iml" group="shop_pay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_pay/shop_pay_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_pay/shop_pay_test.iml" group="shop_pay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_search.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_search.iml" group="shop_search" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_search/shop_search_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_main.iml" group="shop_search" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_search/shop_search_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_test.iml" group="shop_search" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_util.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_util.iml" group="shop_util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_util/shop_util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_main.iml" group="shop_util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_util/shop_util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_test.iml" group="shop_util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/youhuigou.iml" filepath="$PROJECT_DIR$/.idea/modules/youhuigou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/youhuigou_main.iml" filepath="$PROJECT_DIR$/.idea/modules/youhuigou_main.iml" group="youhuigou" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/youhuigou_test.iml" filepath="$PROJECT_DIR$/.idea/modules/youhuigou_test.iml" group="youhuigou" />
+    </modules>
+  </component>
+</project>
