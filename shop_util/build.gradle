@@ -20,6 +20,12 @@ repositories {
     mavenCentral()
 }
 
+jar {
+    manifest {
+        attributes("Implementation-Title": "util")
+    }
+}
+
 dependencies {
     compile("org.apache.poi:poi:$poi_version",
             "org.apache.poi:poi-ooxml-schemas:$poi_version",
@@ -27,9 +33,14 @@ dependencies {
             "net.sourceforge.jexcelapi:jxl:$jxl_version",
             "org.springframework.boot:spring-boot-starter-web",
             "org.springframework.boot:spring-boot-starter-activemq",
-            "org.springframework.boot:spring-boot-starter-cache",
-            "org.springframework.boot:spring-boot-starter-data-elasticsearch",
-            "org.springframework.boot:spring-boot-devtools")
-    compile project(":shop_background")
+            "mysql:mysql-connector-java:$mysql_version",
+//            "org.springframework.boot:spring-boot-starter-cache",
+//            "org.springframework.boot:spring-boot-starter-data-elasticsearch",
+            "org.springframework.boot:spring-boot-devtools",
+            "org.apache.httpcomponents:httpclient:$httpclient_version",
+            group: 'junit', name: 'junit', version: '4.12',
+            "redis.clients:jedis:$redis_version")
+//    compile project(":shop_background")
+
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }

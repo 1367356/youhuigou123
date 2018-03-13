@@ -4,9 +4,8 @@ import java.util.List;
 
 import com.background.dao.mapper.DetailDisplayMapper;
 import com.background.service.DetailDisplayService;
-import excel.pojo.Product;
+import data.pojo.Product;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
 import org.springframework.stereotype.Service;
 
 
@@ -18,6 +17,7 @@ public class DetailDisplayServiceImpl implements DetailDisplayService {
 	
 	public Product getProductByUid(String uid){
 		Product product = detailDisplayMapper.getProductByUid(uid);
+		System.out.println(product.getDisherf()+""+product.getName());
 		return product;
 	}
 	private List<Product> selectRecProduct(int nextInt, int offset) {
@@ -29,6 +29,7 @@ public class DetailDisplayServiceImpl implements DetailDisplayService {
 	 * 根据uid查询商品和推荐商品。
 	 */
 	public List<Product> selectProductAndRecByUid(String uid) {
+		System.out.println(uid);
 		// TODO Auto-generated method stub
 		Product product = getProductByUid(uid);
 		int uidInt = Integer.parseInt(uid.substring(0, 5));

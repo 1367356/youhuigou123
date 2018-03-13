@@ -1,0 +1,22 @@
+server:
+  port: 9002
+  context-path: /fore
+
+spring:
+  jackson:
+    default-property-inclusion: non_null
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+  devtools:
+    restart:
+      enabled: true
+  http:
+    multipart:
+      max-file-size: 10Mb
+
+cxf:
+  jaxrs:
+    component-scan: true
+
+

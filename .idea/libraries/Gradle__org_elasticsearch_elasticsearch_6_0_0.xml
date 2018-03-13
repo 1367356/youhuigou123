@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch:elasticsearch:6.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.0.0/5b88a93549c5082c3c500feab846d0f71da50a58/elasticsearch-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/elasticsearch/6.0.0/e63664f93b4e16eee66f2e2662e1b32378d5d914/elasticsearch-6.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

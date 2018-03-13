@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.background.dao.mapper.GetListByPageMapper" >
-  <resultMap id="BaseResultMap" type="excel.pojo.Product" >
+  <resultMap id="BaseResultMap" type="data.pojo.Product" >
     <constructor >
       <arg column="id" jdbcType="VARCHAR" javaType="java.lang.String" />
       <arg column="name" jdbcType="VARCHAR" javaType="java.lang.String" />
@@ -26,6 +26,6 @@
     <include refid="Base_Column_List" />
     from product
   	limit #{start},#{offset} 
-     <!--    where product.pid between #{start} and #{end} limit #{start},#{end}-->
+     <!--    where product.id between #{start} and #{end} limit #{start},#{end}-->
   </select>
 </mapper>

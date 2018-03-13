@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.elasticsearch:jna:4.4.0-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/jna/4.4.0-1/c9dfcec6f07ee4b1d7a6c09a7eaa9dd4fb6d2c79/jna-4.4.0-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch/jna/4.4.0-1/9d45d3dc35711eef7267d8b4fc2c0dc482ef9fd2/jna-4.4.0-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

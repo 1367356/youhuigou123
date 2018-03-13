@@ -12,21 +12,29 @@ apply plugin: "java"                           //java 插件
 apply plugin: "org.springframework.boot"   //spring boot 插件
 apply plugin: "io.spring.dependency-management"
 
+apply plugin: "application"   //应用
+mainClassName = "com.background.SpringBootBackgrouondMainClass"
 // jar包的名字
 //archivesBaseName="core"
 
 sourceCompatibility = 1.8
+
+jar {
+    manifest {
+        attributes("Implementation-Title": "background")
+        attributes 'Main-Class': 'com.background.SpringBootBackgrouondMainClass'
+    }
+}
+
 repositories {
     mavenCentral()
 }
-
 
 dependencies {
     compile project(":shop_util")
     compile("org.springframework.boot:spring-boot-starter-web",
             "org.springframework.boot:spring-boot-starter-activemq",
             "org.springframework.boot:spring-boot-starter-cache",
-            "org.springframework.boot:spring-boot-starter-data-elasticsearch",
             "org.springframework.boot:spring-boot-devtools",
             "org.apache.cxf:cxf-spring-boot-starter-jaxrs:$boot_starter_jaxrs_version",
 //            "org.springframework.boot:spring-boot-starter-data-jpa:$springBootVersion",
@@ -43,7 +51,8 @@ dependencies {
             "com.itextpdf:itextpdf:$itext_version",
             "com.itextpdf:itext-asian:$itext_version",
             "org.apache.logging.log4j:log4j-core:$log4j_version",
-            "org.mybatis.spring.boot:mybatis-spring-boot-starter:$mybatis_spring_boot_version"
+            "org.mybatis.spring.boot:mybatis-spring-boot-starter:$mybatis_spring_boot_version",
+
     )
     compile 'org.apache.httpcomponents:httpclient:4.5.3'
     testCompile("org.springframework.boot:spring-boot-starter-test")

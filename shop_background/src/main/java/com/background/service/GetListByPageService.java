@@ -2,14 +2,14 @@ package com.background.service;
 
 import java.util.List;
 
-import excel.pojo.Product;
+import data.pojo.Product;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 
-@Path("GetListByPageService")
+@Path("/GetListByPageService")
 public interface GetListByPageService {
 	/**
 	 * 查询商品根据Uid

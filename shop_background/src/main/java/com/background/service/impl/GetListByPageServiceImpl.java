@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.background.dao.mapper.GetListByPageMapper;
 import com.background.service.GetListByPageService;
-import excel.pojo.Product;
+import data.pojo.Product;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,10 +20,11 @@ public class GetListByPageServiceImpl implements GetListByPageService {
 	@Override
 	public List<Product> getListByPage(int page) {
 		// TODO Auto-generated method stub
+//		int page = Integer.parseInt(page1);
 		log.warn("warn");
 		log.error("error");
 		List<Product> listPro = getListByPage.getListByPage(page*20,20);  // 替换为 repository
-		return null;
+		return listPro;
 	}
 
 

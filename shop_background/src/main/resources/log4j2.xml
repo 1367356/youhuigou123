@@ -25,8 +25,8 @@
 
 	</Loggers>
 	<Loggers>
-		<root level="info">   如果没有配置时，就使用这个默认配置
-			<AppenderRef ref="MyFile"/>
+		<root level="debug">
+			<AppenderRef ref="Console"/>
 		</root>
 	</Loggers>
 
