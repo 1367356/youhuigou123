@@ -129,46 +129,17 @@ public class ElasticSearchProduct {
                 .get();
 
         SearchHit[] searchHits = response1.getHits().getHits();//命中个数
-//        logger.debug("命中个数"+totalHits1);
-//        XContentBuilder x;
-//        response1.innerToXContent(x, ToXContent.Params);
-//        SearchHits hits = response1.getHits();
-//        List list = new ArrayList();
-//        SearchHit[] searchHits = hits.getHits();
-//        logger.debug(searchHits.length+"命中个数");
 
         JSONArray jsonArray = new JSONArray();
             JSONObject jsonObject = new JSONObject();
         for (int i = 0; i < searchHits.length; i++) {
-
             Map<String, DocumentField> fields = searchHits[i].getFields();
 
             String sourceAsString = searchHits[i].getSourceAsString();
             jsonObject.put(i+"",sourceAsString);
-//
-//
-//            Set<String> keySet = fields.keySet();
-//
-//            Iterator<String> iterator = keySet.iterator();
-//            while (iterator.hasNext()) {
-//                String next = iterator.next();
-//                DocumentField documentField = fields.get(next);
-//                List<Object> values = documentField.getValues();
-//                Object o = values.get(1);
-//                System.out.println(o);
-//                jsonObject.put(next,values);
-//            }
             jsonArray.add(jsonObject);
-//            String[] matchedQueries = searchHits[i].getMatchedQueries();
-//            System.out.println(matchedQueries[0]);
         }
 
-//        for (SearchHit searchHit : hits) {
-//            String[] matchedQueries = searchHit.getMatchedQueries();
-//            Map source = searchHit.getSource();
-//            Product entity = (Product) JSONObject.toBean(JSONObject.fromObject(source) , Product.class);
-//            list.add(entity);
-//        }
         return jsonObject;
     }
 

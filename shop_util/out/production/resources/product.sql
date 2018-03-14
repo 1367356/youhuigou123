@@ -1,7 +1,7 @@
 -- product 表
 DROP TABLE IF EXISTS `product`;
 create table product(
-  id int(11) primary key not null auto_increment comment 'id,自增，用于标识商品',
+  pid int(11) primary key not null auto_increment comment 'id,自增，用于标识商品',
   id varchar(15) not null comment '商品id',
   name varchar(100) not null comment '商品名',
   image  varchar(255) not null comment '商品图片',

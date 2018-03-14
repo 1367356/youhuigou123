@@ -32,7 +32,7 @@ public class QueryProductController {
         Map requestParamMap = new HashMap();
         requestParamMap.put("id",id);
 
-        String url=Constants.URL+"/QueryProductService/QueryProductBypid";
+        String url=new Constants().URL+"/QueryProductService/QueryProductBypid";
         HttpResponse httpResponse;
         Product product=null;
         com.alibaba.fastjson.JSONObject jsonObject=null;
@@ -66,7 +66,7 @@ public class QueryProductController {
         Map requestParamMap = new HashMap();
         requestParamMap.put("id",id);
 
-        String url= Constants.URL+"/QueryProductService/QueryProductBypid";
+        String url=new Constants().URL+"/QueryProductService/QueryProductBypid";
         HttpResponse httpResponse;
         Product product=null;
         try {

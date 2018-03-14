@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class Constants {
 
-    public static String URL;
+    public String URL;
     public Constants() {
         InputStream in = this.getClass().getResourceAsStream("/config.properties");
         Properties properties = new Properties();

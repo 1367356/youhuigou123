@@ -30,7 +30,7 @@ public class InsertDataIntoDatabase {
 
         Class.forName("com.mysql.jdbc.Driver");
         Connection con = (Connection) DriverManager.getConnection("jdbc:mysql://" +
-                "localhost:3306/youhuigou","root", "1367356");
+                "192.168.100.91:3306/youhuigou","root", "1367356");
         // 关闭事务自动提交
         con.setAutoCommit(false);
 
