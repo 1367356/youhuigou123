@@ -106,7 +106,6 @@ public class ElasticSearchProduct {
                     )
             );
         }
-
         BulkResponse bulkResponse = bulkRequest.get();
         if (bulkResponse.hasFailures()) {
             // process failures by iterating through each bulk response item
@@ -120,8 +119,8 @@ public class ElasticSearchProduct {
     @RequestMapping("/productSearch")
     @ResponseBody
     public JSONObject productSearch(String text) {
-        SearchResponse response1 = client.prepareSearch("product", "index")  //指定多个索引
-                .setTypes("product", "type")  //指定类型
+        SearchResponse response1 = client.prepareSearch("product")  //指定多个索引
+                .setTypes("product")  //指定类型
                 .setSearchType(SearchType.QUERY_THEN_FETCH)
                 .setQuery(QueryBuilders.matchQuery("name", text))  // Query
 //                .setPostFilter(QueryBuilders.rangeQuery("age").from(12).to(18))     // Filter
@@ -143,6 +142,7 @@ public class ElasticSearchProduct {
         return jsonObject;
     }
 
+    @RequestMapping("/getById")
     public void get(String id) {
         GetResponse response = client.prepareGet("product", "product", id).get();  //根据id查询，每次一个
         Map<String, Object> source = response.getSource();

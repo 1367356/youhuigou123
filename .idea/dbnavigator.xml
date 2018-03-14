@@ -41,7 +41,7 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/shop_util/src/main/resources/product.sql" connection-id="c6415be5-b6e9-4879-a9cf-6795f9b53225" session-id="MAIN" current-schema="" />
+    <mapping file-url="file://$PROJECT_DIR$/shop_util/src/main/resources/product.sql" connection-id="c6415be5-b6e9-4879-a9cf-6795f9b53225" session-id="MAIN" current-schema="youhuigou" />
     <mapping file-url="file://$PROJECT_DIR$/shop_background/src/main/resources/product.sql" connection-id="5b99cd09-7fb6-457f-b49f-00c782858393" session-id="MAIN" current-schema="youhuigou" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
@@ -149,14 +149,14 @@
           <description value="" />
           <database-type value="MYSQL" />
           <config-type value="BASIC" />
-          <database-version value="9999.0" />
+          <database-version value="5.5" />
           <driver-source value="BUILTIN" />
           <driver-library value="" />
           <driver value="" />
           <url-type value="DATABASE" />
           <host value="192.168.100.91" />
           <port value="3306" />
-          <database value="mysql" />
+          <database value="youhuigou" />
           <os-authentication value="false" />
           <empty-password value="false" />
           <user value="root" />

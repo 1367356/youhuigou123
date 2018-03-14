@@ -1,7 +1,18 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:$springBootVersion")
+    }
+}
 group 'com.li'
 version '1.0-SNAPSHOT'
 
-apply plugin: 'java'
+apply plugin: 'java' //java 插件
+apply plugin: "org.springframework.boot"   //spring boot 插件
+apply plugin: "io.spring.dependency-management"
+
 apply plugin: "application"   //应用
 mainClassName = "queryProduct.SpringBootForeMainClass"
 

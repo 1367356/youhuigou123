@@ -1,7 +1,7 @@
 server:
   port: 9002
   context-path: /fore
-
+#  k19847n443.51mypc.cn:37109	youhuigou	192.168.100.91:9002
 spring:
   jackson:
     default-property-inclusion: non_null
