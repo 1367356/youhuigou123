@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a26fee4-f372-496d-955f-e877eb80ded6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/DetailDisplayService.java" afterPath="$PROJECT_DIR$/shop_background/src/test/java/browserTest/DetailDisplayService.java" />
-      <change beforePath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/GetListByPageService.java" afterPath="$PROJECT_DIR$/shop_background/src/test/java/browserTest/GetListByPageService.java" />
-      <change beforePath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java" afterPath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java" />
-      <change beforePath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/DetailDisplayServiceImpl.java" afterPath="$PROJECT_DIR$/shop_background/src/test/java/browserTest/DetailDisplayServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/GetListByPageServiceImpl.java" afterPath="$PROJECT_DIR$/shop_background/src/test/java/browserTest/GetListByPageServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/PayController.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/PayController.java" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/SearchProductController.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/SearchProductController.java" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/SearchProductServiceImpl.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/SearchProductServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/shop_pay/src/main/java/com/egzosn/pay/ali/controller/AliPayUtil.java" afterPath="$PROJECT_DIR$/shop_pay/src/main/java/com/egzosn/pay/ali/controller/AliPayUtil.java" />
-      <change beforePath="$PROJECT_DIR$/shop_search/src/main/java/com/search/service/Impl/SearchProductImpl.java" afterPath="$PROJECT_DIR$/shop_search/src/main/java/com/search/service/Impl/SearchProductImpl.java" />
-      <change beforePath="$PROJECT_DIR$/shop_util/src/main/java/data/excel/ReadExcel.java" afterPath="$PROJECT_DIR$/shop_util/src/main/java/data/excel/ReadExcel.java" />
-      <change beforePath="$PROJECT_DIR$/shop_util/src/main/java/data/excel/WriteExcel.java" afterPath="$PROJECT_DIR$/shop_util/src/main/java/data/excel/WriteExcel.java" />
-    </list>
+    <list default="true" id="3a26fee4-f372-496d-955f-e877eb80ded6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -2160,7 +2145,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="620" />
     <option name="y" value="65" />
     <option name="width" value="1437" />
@@ -2540,8 +2525,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2550,7 +2534,7 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3681055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31894484" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31894484" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
