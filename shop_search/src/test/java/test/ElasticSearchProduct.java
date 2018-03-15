@@ -2,7 +2,6 @@ package test;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.search.elasticsearch.ElasticsearchConfig;
 import data.excel.ReadExcel;
 import data.pojo.Product;
 import org.apache.logging.log4j.LogManager;

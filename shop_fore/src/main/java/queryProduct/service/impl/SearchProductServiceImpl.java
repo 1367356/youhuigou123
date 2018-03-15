@@ -34,12 +34,6 @@ public class SearchProductServiceImpl implements SearchProductService{
             com.alibaba.fastjson.JSONObject jsonObject=null;
             try {
                 httpResponse = httpUtil.HttpGet(requestParamMap, url);
-//                HttpEntity entity = httpResponse.getEntity();
-//                String s = EntityUtils.toString(entity);
-//                //将返回的xml字符串形式转化为json格式
-//                org.json.JSONObject xmlJSONObj = XML.toJSONObject(s);
-//                jsonObject = (JSONObject) JSON.parse(xmlJSONObj.toString());
-//                log.debug(s);
                 if (httpResponse.getStatusLine().getStatusCode() == 200) {
                     log.debug("使用IK分词创建索引成功");
                 }
@@ -72,28 +66,28 @@ public class SearchProductServiceImpl implements SearchProductService{
     }
 
     @Override
-    public JSONObject productSearch(RecParameter recParameter) {
-        String text=null;
+    public JSONObject productSearch(String text) {
         HttpResponse httpResponse;
         Product product=null;
         com.alibaba.fastjson.JSONObject jsonObject=null;
-
-        if (recParameter != null) {
-             text=recParameter.getText();
-        }
         Map requestParamMap = new HashMap();
         requestParamMap.put("text",text);
-        String url= new Constants().searchURL+"/SearchProduct/productSearch";
+        String url= new Constants().searchURL+"/SearchProduct/searchProductByText";
+        log.debug(url);
         try {
             httpResponse = httpUtil.HttpGet(requestParamMap, url);
                 HttpEntity entity = httpResponse.getEntity();
                 String s = EntityUtils.toString(entity);
+//                jsonObject=JSONObject.parseObject(s);
                 //将返回的xml字符串形式转化为json格式
                 org.json.JSONObject xmlJSONObj = XML.toJSONObject(s);
                 jsonObject = (JSONObject) JSON.parse(xmlJSONObj.toString());
-                log.debug(s);
+//                s = jsonObject.getJSONObject("data").getJSONObject("MyJSONObject").toString();
+//                xmlJSONObj = XML.toJSONObject(s);
+//               jsonObject = (JSONObject) JSON.parse(xmlJSONObj.toString());
+            log.debug(s);
             if (httpResponse.getStatusLine().getStatusCode() == 200) {
-                log.debug("使用IK分词创建索引成功");
+                log.debug("搜素成功");
             }
 //            product = (Product)httpResponse.getEntity();
         } catch (Exception e) {

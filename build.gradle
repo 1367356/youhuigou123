@@ -58,8 +58,8 @@ subprojects {
                 "org.springframework.boot:spring-boot-starter-activemq:1.5.9.RELEASE",
                 "org.springframework.boot:spring-boot-devtools:1.5.9.RELEASE",
                 'org.apache.logging.log4j:log4j-core:2.10.0',
-//                'org.apache.logging.log4j:log4j-api:2.10.0',
-//                'org.apache.logging.log4j:log4j-to-slf4j:2.10.0'
+                'org.apache.logging.log4j:log4j-api:2.10.0',
+                'org.apache.logging.log4j:log4j-to-slf4j:2.10.0'
                 )
         testCompile group: 'junit', name: 'junit', version: '4.12'
     }

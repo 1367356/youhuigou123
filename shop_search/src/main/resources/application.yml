@@ -3,20 +3,10 @@ server:
   context-path: /search
 
 spring:
-#  datasource:
-#    driver-class-name: com.mysql.jdbc.Driver
-#    url: jdbc:mysql://localhost:3306/youhuigou
-#    username: root
-#    password: 1367356
-#  jpa:
-#    show-sql: true
   jackson:
     default-property-inclusion: non_null
     date-format: yyyy-MM-dd HH:mm:ss
     time-zone: GMT+8
-#  data:
-#    elasticsearch:
-#      cluster-nodes: localhost:9300
   devtools:
     restart:
       enabled: true
@@ -30,5 +20,3 @@ cxf:
     service-list-path: /info
   jaxrs:
     component-scan: true
-
-#  type-aliases-package: com.liyafei.dao.pojo  # pojo所在的包，与表一一对应

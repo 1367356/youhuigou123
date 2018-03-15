@@ -77,7 +77,6 @@ public class QueryProductController {
             httpResponse = httpUtil.HttpPost(requestParamMap, url);
             HttpEntity entity = httpResponse.getEntity();
             String s = EntityUtils.toString(entity);
-            System.out.println(s+"dayin");
             log.debug(s+"logdayin");
             product = (Product)httpResponse.getEntity();
         } catch (Exception e) {

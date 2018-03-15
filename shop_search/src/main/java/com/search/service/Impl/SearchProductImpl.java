@@ -2,8 +2,9 @@ package com.search.service.Impl;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.search.elasticsearch.ElasticsearchConfig;
+import com.search.pojo.MyJSONObject;
 import com.search.service.SearchProduct;
+import data.elasticSearch.ElasticsearchConfig;
 import data.excel.ReadExcel;
 import data.pojo.Product;
 import org.apache.logging.log4j.LogManager;
@@ -39,7 +40,7 @@ public class SearchProductImpl implements SearchProduct{
     private static TransportClient client;
 
     public SearchProductImpl() {
-        this.client=new ElasticsearchConfig().getElasticsearchClient();
+        client=new ElasticsearchConfig().getElasticsearchClient();
     }
 
     @Override
@@ -69,9 +70,9 @@ public class SearchProductImpl implements SearchProduct{
             e.printStackTrace();
         }
         //pois：索引名   cxyword：类型名（可以自己定义）
-        PutMappingRequest putmap = Requests.putMappingRequest("product").type("product").source(mapping);
+        PutMappingRequest putmap = Requests.putMappingRequest("productik").type("productik").source(mapping);
         //创建索引
-        client.admin().indices().prepareCreate("product").execute().actionGet();
+        client.admin().indices().prepareCreate("productik").execute().actionGet();
         //为索引添加映射
         client.admin().indices().putMapping(putmap).actionGet();
     }
@@ -129,7 +130,7 @@ public class SearchProductImpl implements SearchProduct{
     }
 
     @Override
-    public JSONObject productSearch(String text) {
+    public MyJSONObject productSearch(String text) {
         SearchResponse response1 = client.prepareSearch("product")  //指定多个索引
                 .setTypes("product")  //指定类型
                 .setSearchType(SearchType.QUERY_THEN_FETCH)
@@ -148,7 +149,9 @@ public class SearchProductImpl implements SearchProduct{
             jsonObject.put(i+"",sourceAsString);
             jsonArray.add(jsonObject);
         }
-
-        return jsonObject;
+        logger.debug("返回jsonObject");
+        MyJSONObject myJSONObject=new MyJSONObject();
+        myJSONObject.setJsonObject(jsonObject);
+        return myJSONObject;
     }
 }

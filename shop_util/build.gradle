@@ -34,6 +34,8 @@ dependencies {
             "org.springframework.boot:spring-boot-starter-web",
             "org.springframework.boot:spring-boot-starter-activemq",
             "mysql:mysql-connector-java:$mysql_version",
+            'org.elasticsearch:elasticsearch:6.0.0',
+            'org.elasticsearch.client:transport:6.0.0',
 //            "org.springframework.boot:spring-boot-starter-cache",
 //            "org.springframework.boot:spring-boot-starter-data-elasticsearch",
             "org.springframework.boot:spring-boot-devtools",

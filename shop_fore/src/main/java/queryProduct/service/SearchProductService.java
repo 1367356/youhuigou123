@@ -9,6 +9,6 @@ public interface SearchProductService{
 
     public void bulkCreateIndexAndAddData();
 
-    public JSONObject productSearch(RecParameter recParameter);
+    public JSONObject productSearch(String text);
 
 }
