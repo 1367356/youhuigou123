@@ -13,7 +13,7 @@ import queryProduct.service.impl.SearchProductServiceImpl;
 import template.ResponseTemplate;
 
 @RestController
-@RequestMapping("/SearchProduct")
+@RequestMapping("/SearchProductController")
 public class SearchProductController {
 
     Logger logger = LogManager.getLogger(SearchProductController.class);

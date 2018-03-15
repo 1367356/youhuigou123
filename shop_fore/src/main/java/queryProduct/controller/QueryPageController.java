@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import queryProduct.service.impl.QueryPageServiceImpl;
+import template.responseTemplate.ResponseTemplate;
 
 import java.util.List;
 
@@ -31,6 +32,7 @@ public class QueryPageController {
         String page=recParameter.getPage();
         String callback = recParameter.getCallback();
         JSONObject jsonObject = queryPageServiceImpl.queryPage(page);
-        return new JSONPObject(callback, jsonObject);
+        ResponseTemplate responseTemplate = new ResponseTemplate(0,"成功",jsonObject);
+        return new JSONPObject(callback, responseTemplate);
     }
 }

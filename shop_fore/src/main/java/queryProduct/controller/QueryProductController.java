@@ -23,6 +23,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
+@RequestMapping("QueryProductController")
 public class QueryProductController {
     Logger log= LogManager.getLogger(QueryProductController.class);
     HttpUtil httpUtil=new HttpUtil();
