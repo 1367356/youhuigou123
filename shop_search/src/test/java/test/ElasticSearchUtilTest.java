@@ -1,11 +1,5 @@
 package test;
 
-import com.search.elasticsearch.ElasticSearchUtil;
-import org.junit.Test;
-
-import java.io.IOException;
-import java.util.concurrent.ExecutionException;
-
 public class ElasticSearchUtilTest {
 //    ElasticSearchUtil esu=new ElasticSearchUtil();
 //

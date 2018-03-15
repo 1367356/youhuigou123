@@ -7,6 +7,16 @@ public class RecParameter {
 	String cate;   // 下面分类
 	String uid;    //商品id
 	String page;   //页码
+	String text;   //查询文本
+
+	public String getText() {
+		return text;
+	}
+
+	public void setText(String text) {
+		this.text = text;
+	}
+
 	public String getKind() {
 		return kind;
 	}

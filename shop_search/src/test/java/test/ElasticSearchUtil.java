@@ -1,6 +1,7 @@
-package com.search.elasticsearch;
+package test;
 
 
+import com.search.elasticsearch.ElasticsearchConfig;
 import data.pojo.Product;
 import org.elasticsearch.action.DocWriteResponse;
 import org.elasticsearch.action.admin.indices.mapping.put.PutMappingRequest;

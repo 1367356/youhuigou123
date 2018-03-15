@@ -15,14 +15,13 @@
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:1.5.9.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-activemq:1.5.9.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-devtools:1.5.9.RELEASE" level="project" />
-    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.10.0" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-cache:1.5.9.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: com.sun.jna:jna:3.0.9" level="project" />
     <orderEntry type="library" name="Gradle: mysql:mysql-connector-java:5.1.35" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:2.8.5" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.shiro:shiro-spring:1.4.0" level="project" />
     <orderEntry type="library" name="Gradle: org.quartz-scheduler:quartz:2.2.1" level="project" />
-    <orderEntry type="library" name="Gradle: com.belerweb:pinyin4j:2.5.0" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.poi:poi-ooxml:3.11" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.poi:poi:3.11" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.poi:poi-ooxml-schemas:3.11" level="project" />

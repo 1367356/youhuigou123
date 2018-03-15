@@ -30,7 +30,7 @@ public class QueryPageServiceImpl implements QueryPageService {
         Map requestParamMap = new HashMap();
         requestParamMap.put("page",page);
 
-        String url= new Constants().URL+"/QueryProductService/QueryProductByPage";
+        String url= new Constants().backgroundURL+"/QueryProductService/QueryProductByPage";
         HttpResponse httpResponse;
         Product product=null;
         com.alibaba.fastjson.JSONObject jsonObject=null;

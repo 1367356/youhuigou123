@@ -1,11 +1,16 @@
 package queryProduct.controller;
 
 import com.alibaba.fastjson.JSONObject;
+import com.fasterxml.jackson.databind.util.JSONPObject;
+import data.pojo.Product;
+import data.pojo.RecParameter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import queryProduct.service.impl.QueryPageServiceImpl;
+
+import java.util.List;
 
 /**
  * 一页查询
@@ -18,12 +23,14 @@ public class QueryPageController {
     QueryPageServiceImpl queryPageServiceImpl;
     /**
      * 根据页数查询商品
-     * @param page
+     * @param
      */
     @RequestMapping("/queryPage")
     @ResponseBody
-    public JSONObject queryPage(String page) {
+    public JSONPObject queryPage(RecParameter recParameter) {
+        String page=recParameter.getPage();
+        String callback = recParameter.getCallback();
         JSONObject jsonObject = queryPageServiceImpl.queryPage(page);
-        return jsonObject;
+        return new JSONPObject(callback, jsonObject);
     }
 }

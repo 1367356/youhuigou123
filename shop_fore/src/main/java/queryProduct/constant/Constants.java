@@ -6,7 +6,8 @@ import java.util.Properties;
 
 public class Constants {
 
-    public String URL;
+    public String backgroundURL;
+    public String searchURL;
     public Constants() {
         InputStream in = this.getClass().getResourceAsStream("/config.properties");
         Properties properties = new Properties();
@@ -15,6 +16,8 @@ public class Constants {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        URL = properties.getProperty("backgroundURL");
+        backgroundURL = properties.getProperty("backgroundURL");
+        searchURL = properties.getProperty("searchURL");
+
     }
 }

@@ -17,6 +17,7 @@
     <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.10.0" level="project" />
     <orderEntry type="library" name="Gradle: org.elasticsearch.client:transport:6.0.0" level="project" />
     <orderEntry type="library" name="Gradle: org.elasticsearch:elasticsearch:6.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: javax.ws.rs:javax.ws.rs-api:2.1" level="project" />
     <orderEntry type="library" name="Gradle: com.alibaba:fastjson:1.2.44" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:1.5.9.RELEASE" level="project" />

@@ -2,14 +2,17 @@ package queryProduct.controller;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
+import com.fasterxml.jackson.databind.util.JSONPObject;
 import data.http.HttpUtil;
 import data.pojo.Product;
+import data.pojo.RecParameter;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.util.EntityUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.json.XML;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
@@ -26,13 +29,15 @@ public class QueryProductController {
 
     @RequestMapping("/queryProductByPidGet")
     @ResponseBody
-    public JSONObject queryProductByPidGet(String id){
+    public JSONPObject queryProductByPidGet(RecParameter recParameter){
 
-        log.debug(id);
+        String id=recParameter.getUid();
+        String callback = recParameter.getCallback();
+
         Map requestParamMap = new HashMap();
         requestParamMap.put("id",id);
 
-        String url=new Constants().URL+"/QueryProductService/QueryProductBypid";
+        String url=new Constants().backgroundURL+"/QueryProductService/QueryProductBypid";
         HttpResponse httpResponse;
         Product product=null;
         com.alibaba.fastjson.JSONObject jsonObject=null;
@@ -48,25 +53,24 @@ public class QueryProductController {
         } catch (Exception e) {
             e.printStackTrace();
         }
-//        ResponseTemplate response=new ResponseTemplate(0, "成功", product);
-
-        return jsonObject;
+        ResponseTemplate response=new ResponseTemplate(0, "成功", jsonObject);
+        return new JSONPObject(callback, response);
 //        return new JSONPObject(callback, response);
     }
 
     @RequestMapping("/queryProductByPidPost")
     @ResponseBody
-    public ResponseTemplate queryProductByPidPost(String id){
-//    public JSONPObject queryProductByPid(RecParameter recParameter){
+//    public ResponseTemplate queryProductByPidPost(String id){
+    public JSONPObject queryProductByPid(RecParameter recParameter){
 
-//        String callback = recParameter.getCallback();
-//        String id = recParameter.getUid();
+        String callback = recParameter.getCallback();
+        String id = recParameter.getUid();
 
         log.debug(id);
         Map requestParamMap = new HashMap();
         requestParamMap.put("id",id);
 
-        String url=new Constants().URL+"/QueryProductService/QueryProductBypid";
+        String url=new Constants().backgroundURL+"/QueryProductService/QueryProductBypid";
         HttpResponse httpResponse;
         Product product=null;
         try {
@@ -80,7 +84,7 @@ public class QueryProductController {
             e.printStackTrace();
         }
         ResponseTemplate response=new ResponseTemplate(0, "成功", product);
-        return response;
-//        return new JSONPObject(callback, response);
+//        return response;
+        return new JSONPObject(callback, response);
     }
 }

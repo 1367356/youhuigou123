@@ -2,57 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a26fee4-f372-496d-955f-e877eb80ded6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_9_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__mysql_mysql_connector_java_5_1_44.xml" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/annotation-processors.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileContent/fileContent.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/SearchProductController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/SearchProductService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/SearchProductServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shop_search/src/main/java/com/search/service/Impl/SearchProductImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shop_search/src/main/java/com/search/service/SearchProduct.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_8_10.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_8_10.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_8_10.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_9_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_pool2_2_4_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpasyncclient_4_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpasyncclient_4_1_3.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_fore/shop_fore_test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_belerweb_pinyin4j_2_5_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_logging_log4j_log4j_core_2_7.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_background/shop_background_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_main.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/shop_background/build/distributions/shop_background-1.0-SNAPSHOT.tar" afterPath="$PROJECT_DIR$/shop_background/build/distributions/shop_background-1.0-SNAPSHOT.tar" />
-      <change beforePath="$PROJECT_DIR$/shop_background/build/distributions/shop_background-1.0-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/shop_background/build/distributions/shop_background-1.0-SNAPSHOT.zip" />
-      <change beforePath="$PROJECT_DIR$/shop_background/build/libs/shop_background-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop_background/build/libs/shop_background-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/shop_background/build/libs/shop_background-1.0-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/shop_background/build/libs/shop_background-1.0-SNAPSHOT.jar.original" />
-      <change beforePath="$PROJECT_DIR$/shop_background/build/resources/main/application.yml" afterPath="$PROJECT_DIR$/shop_background/build/resources/main/application.yml" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/application.yml" afterPath="$PROJECT_DIR$/shop_background/out/production/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build.gradle" afterPath="$PROJECT_DIR$/shop_fore/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/classes/java/main/queryProduct/SpringBootForeMainClass.class" afterPath="$PROJECT_DIR$/shop_fore/build/classes/java/main/queryProduct/SpringBootForeMainClass.class" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/classes/java/main/queryProduct/controller/QueryProductController.class" afterPath="$PROJECT_DIR$/shop_fore/build/classes/java/main/queryProduct/controller/QueryProductController.class" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/distributions/shop_fore-1.0-SNAPSHOT.tar" afterPath="$PROJECT_DIR$/shop_fore/build/distributions/shop_fore-1.0-SNAPSHOT.tar" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/distributions/shop_fore-1.0-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/shop_fore/build/distributions/shop_fore-1.0-SNAPSHOT.zip" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/libs/shop_fore-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop_fore/build/libs/shop_fore-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/resources/main/application.yml" afterPath="$PROJECT_DIR$/shop_fore/build/resources/main/application.yml" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/resources/main/log4j2.xml" afterPath="$PROJECT_DIR$/shop_fore/build/resources/main/log4j2.xml" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/scripts/shop_fore" afterPath="$PROJECT_DIR$/shop_fore/build/scripts/shop_fore" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/build/scripts/shop_fore.bat" afterPath="$PROJECT_DIR$/shop_fore/build/scripts/shop_fore.bat" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/shop_background/build.gradle" afterPath="$PROJECT_DIR$/shop_background/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryPageController.class" afterPath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryPageController.class" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryProductController.class" afterPath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryProductController.class" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/resources/application.yml" afterPath="$PROJECT_DIR$/shop_fore/out/production/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/constant/Constants.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/constant/Constants.java" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryPageController.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryPageController.java" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/QueryPageServiceImpl.java" afterPath="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/QueryPageServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/shop_fore/src/main/resources/config.properties" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/config.properties" />
       <change beforePath="$PROJECT_DIR$/shop_search/build.gradle" afterPath="$PROJECT_DIR$/shop_search/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/shop_search/out/production/classes/com/search/elasticSearchProduct/ElasticSearchProduct.class" afterPath="$PROJECT_DIR$/shop_search/out/production/classes/com/search/elasticSearchProduct/ElasticSearchProduct.class" />
-      <change beforePath="$PROJECT_DIR$/shop_search/out/production/resources/config.properties" afterPath="$PROJECT_DIR$/shop_search/out/production/resources/config.properties" />
-      <change beforePath="$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticSearchProduct/ElasticSearchProduct.java" afterPath="$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticSearchProduct/ElasticSearchProduct.java" />
-      <change beforePath="$PROJECT_DIR$/shop_search/src/main/resources/config.properties" afterPath="$PROJECT_DIR$/shop_search/src/main/resources/config.properties" />
-      <change beforePath="$PROJECT_DIR$/shop_util/build/classes/java/main/data/batchInsertDataTODatabase/InsertDataIntoDatabase.class" afterPath="$PROJECT_DIR$/shop_util/build/classes/java/main/data/batchInsertDataTODatabase/InsertDataIntoDatabase.class" />
-      <change beforePath="$PROJECT_DIR$/shop_util/build/libs/shop_util-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/shop_util/build/libs/shop_util-1.0-SNAPSHOT.jar" />
-      <change beforePath="$PROJECT_DIR$/shop_util/build/resources/main/product.sql" afterPath="$PROJECT_DIR$/shop_util/build/resources/main/product.sql" />
+      <change beforePath="$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticSearchProduct/ElasticSearchProduct.java" afterPath="$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchProduct.java" />
+      <change beforePath="$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticsearch/ElasticSearchUtil.java" afterPath="$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchUtil.java" />
+      <change beforePath="$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchUtilTest.java" afterPath="$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchUtilTest.java" />
+      <change beforePath="$PROJECT_DIR$/shop_util/out/production/classes/data/pojo/RecParameter.class" afterPath="$PROJECT_DIR$/shop_util/out/production/classes/data/pojo/RecParameter.class" />
+      <change beforePath="$PROJECT_DIR$/shop_util/src/main/java/data/pojo/RecParameter.java" afterPath="$PROJECT_DIR$/shop_util/src/main/java/data/pojo/RecParameter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -150,14 +129,28 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="youhuigou" type="f1a62948:ProjectNode" />
-                <item name=":shop_fore" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
+                <item name=":shop_search" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="youhuigou" type="f1a62948:ProjectNode" />
                 <item name=":shop_search" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="youhuigou" type="f1a62948:ProjectNode" />
+                <item name=":shop_search" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="youhuigou" type="f1a62948:ProjectNode" />
+                <item name=":shop_search" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -181,52 +174,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_search/build.gradle">
+      <file leaf-file-name="SearchProduct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/service/SearchProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_fore/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringBootSearchMainClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/SpringBootSearchMainClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpringBootForeMainClass.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeMainClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryProductService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="123">
+              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -235,7 +190,7 @@
         <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/QueryPageService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="24" />
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -244,38 +199,89 @@
       <file leaf-file-name="QueryPageServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/QueryPageServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+            <state relative-caret-position="501">
+              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryPageController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryPageController.java">
+      <file leaf-file-name="SearchProductController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/SearchProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="135">
+              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#940#941#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchProductService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/SearchProductService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchProductServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/SearchProductServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchProductImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/service/Impl/SearchProductImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/constant/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryProductController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryProductController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="63" lean-forward="true" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+            <state relative-caret-position="567">
+              <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -1947,16 +1953,16 @@
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/.gradle/init.gradle" value="3855063258" />
-        <entry key="$PROJECT_DIR$" value="16724711299365" />
+        <entry key="$PROJECT_DIR$" value="16724935194174" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1458814960" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3816691229" />
-        <entry key="$PROJECT_DIR$/shop_background/build.gradle" value="3373063321" />
+        <entry key="$PROJECT_DIR$/shop_background/build.gradle" value="3423013362" />
         <entry key="$PROJECT_DIR$/shop_data/build.gradle" value="2216484103" />
         <entry key="$PROJECT_DIR$/shop_domain/build.gradle" value="2216484103" />
         <entry key="$PROJECT_DIR$/shop_fore/build.gradle" value="3656828999" />
         <entry key="$PROJECT_DIR$/shop_pay/build.gradle" value="2216484103" />
-        <entry key="$PROJECT_DIR$/shop_search/build.gradle" value="952732531" />
+        <entry key="$PROJECT_DIR$/shop_search/build.gradle" value="1815649140" />
         <entry key="$PROJECT_DIR$/shop_util/build.gradle" value="3857243574" />
       </map>
     </option>
@@ -2174,17 +2180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shop_search/src/main/java/com/redis/RedisTest.java" />
-        <option value="$PROJECT_DIR$/shop_util/src/main/java/excel/redis/RedisTest.java" />
-        <option value="$PROJECT_DIR$/shop_util/src/main/java/excel/redis/JedisPoolTest.java" />
-        <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductByPidService.java" />
-        <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/QueryProductByPidServiceImpl.java" />
-        <option value="$PROJECT_DIR$/shop_util/src/main/java/data/excel/WriteExcel.java" />
-        <option value="$PROJECT_DIR$/shop_util/src/main/java/data/seriableObject/Serialize.java" />
-        <option value="$PROJECT_DIR$/shop_util/src/main/java/data/redis/JedisPool.java" />
-        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProduct.java" />
-        <option value="$PROJECT_DIR$/shop_util/src/main/java/template/ResponseTemplate.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/shop_util/src/main/java/template/responseTemplate/ResponseTemplate.java" />
         <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeMain.java" />
         <option value="$PROJECT_DIR$/shop_util/build.gradle" />
@@ -2193,7 +2188,6 @@
         <option value="$PROJECT_DIR$/shop_background/src/test/java/browserTest/Test.java" />
         <option value="$PROJECT_DIR$/shop_background/src/test/java/browserTest/ElasticUtil.java" />
         <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBootBackgrouondMainClass.java" />
-        <option value="$PROJECT_DIR$/shop_background/build.gradle" />
         <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeMainClass.java" />
         <option value="$PROJECT_DIR$/shop_util/src/main/java/data/redis/RedisUtil.java" />
         <option value="$PROJECT_DIR$/shop_fore/src/main/resources/log4j2.xml" />
@@ -2203,7 +2197,6 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/PageController.java" />
         <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/QueryPageService.java" />
-        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryPageController.java" />
         <option value="$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mapper/DetailDisplayMapper.xml" />
         <option value="$PROJECT_DIR$/shop_util/src/main/java/data/pojo/Product.java" />
         <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java" />
@@ -2211,20 +2204,33 @@
         <option value="$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mapper/QueryProductMapper.xml" />
         <option value="$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticsearch/ElasticsearchConfig.java" />
         <option value="$PROJECT_DIR$/shop_util/src/main/resources/config.properties" />
-        <option value="$PROJECT_DIR$/shop_fore/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/QueryProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/shop_util/src/main/java/data/redis/JedisPoolUtil.java" />
         <option value="$PROJECT_DIR$/shop_util/src/main/java/data/batchInsertDataTODatabase/InsertDataIntoDatabase.java" />
         <option value="$PROJECT_DIR$/shop_util/src/main/resources/product.sql" />
-        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/constant/Constants.java" />
-        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java" />
-        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/QueryPageServiceImpl.java" />
         <option value="$PROJECT_DIR$/shop_search/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticSearchProduct/ElasticSearchProduct.java" />
         <option value="$PROJECT_DIR$/shop_background/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/shop_fore/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/shop_search/build.gradle" />
         <option value="$PROJECT_DIR$/shop_fore/build.gradle" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryPageController.java" />
+        <option value="$PROJECT_DIR$/shop_util/src/main/java/data/pojo/RecParameter.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/searchProduct/SearchProduct.java" />
+        <option value="$PROJECT_DIR$/shop_background/build.gradle" />
+        <option value="$PROJECT_DIR$/shop_search/build.gradle" />
+        <option value="$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchUtil.java" />
+        <option value="$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchProduct.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/search/SearchProduct.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/search/SearchProductController.java" />
+        <option value="$PROJECT_DIR$/shop_search/src/main/java/com/search/service/SearchProduct.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/SearchProductService.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/QueryPageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop_search/src/main/java/com/search/service/Impl/SearchProductImpl.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/SearchProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/SearchProductController.java" />
       </list>
     </option>
   </component>
@@ -2259,6 +2265,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2270,12 +2277,6 @@
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
@@ -2320,13 +2321,18 @@
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_fore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="background" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_fore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
@@ -2357,6 +2363,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="queryProduct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_fore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="queryProduct" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
@@ -2392,47 +2408,80 @@
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_fore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_search" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_search" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_search" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_search" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_search" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="shop_search" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_search" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="queryProduct.service" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="queryProduct.controller" />
+      <recent name="test" />
+      <recent name="queryProduct.search" />
       <recent name="template.responseTemplate" />
       <recent name="com.background.dao.pojo" />
     </key>
@@ -2456,13 +2505,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.youhuigou:shop_background [bootRepackage]">
+  <component name="RunManager" selected="Application.SpringBootForeMainClass">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="SpringBootBackgrouondMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.background.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.background.SpringBootBackgrouondMainClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="shop_background_main" />
+      <envs />
+    </configuration>
+    <configuration name="SpringBootForeMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="queryProduct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="queryProduct.SpringBootForeMainClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="shop_fore_main" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -2532,42 +2619,6 @@
       </ExternalSystemSettings>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
     </configuration>
-    <configuration name="youhuigou:shop_search [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/shop_search" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-    </configuration>
-    <configuration name="youhuigou:shop_search [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/shop_search" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -2629,19 +2680,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [clean]" />
-      <item index="1" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [build]" />
-      <item index="2" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [bootRepackage]" />
-      <item index="3" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_fore [bootRepackage]" />
-      <item index="4" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_background [bootRepackage]" />
+      <item index="0" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [bootRepackage]" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_fore [bootRepackage]" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_background [bootRepackage]" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SpringBootBackgrouondMainClass" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SpringBootForeMainClass" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_background [bootRepackage]" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_fore [bootRepackage]" />
-        <item index="2" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [bootRepackage]" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [build]" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [clean]" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SpringBootForeMainClass" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SpringBootBackgrouondMainClass" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_background [bootRepackage]" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_fore [bootRepackage]" />
+        <item index="4" class="java.lang.String" itemvalue="Gradle.youhuigou:shop_search [bootRepackage]" />
       </list>
     </recent_temporary>
   </component>
@@ -2712,18 +2763,18 @@
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3681055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4436451" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2386091" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20118026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26233906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35851318" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18944845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14109442" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18944845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22532189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27577937" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2757,85 +2808,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop_background/src/test/java/browserTest/ElasticUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/out/production/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/logs/debug.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.3/4969730c661fff76fa7f9d4c7c61545817f5b033/httpclient-4.5.3-sources.jar!/org/apache/http/client/methods/CloseableHttpResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="38" column="59" lean-forward="false" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/src/main/resources/config/scripts/template_gender.mustache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/http/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-81">
           <caret line="52" column="47" lean-forward="false" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2855,24 +2831,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/DetailDisplayServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/pojo/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#240#241#0" expanded="false" />
-            <element signature="e#257#258#0" expanded="false" />
-            <element signature="e#292#293#0" expanded="false" />
-            <element signature="e#313#314#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2888,7 +2850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2896,7 +2857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2912,15 +2872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/GetListByPageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2928,7 +2879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2936,7 +2886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2944,23 +2893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/DetailDisplayService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="56" lean-forward="false" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2968,7 +2900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="37" column="37" lean-forward="false" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2976,22 +2907,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/QueryProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="64" column="57" lean-forward="false" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mapper/QueryProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_util/src/main/resources/product.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/batchInsertDataTODatabase/InsertDataIntoDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/redis/JedisPoolUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_search/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticsearch/ElasticSearchUtil.java">
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticsearch/ElasticsearchConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="15" column="80" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="80" />
+        <state relative-caret-position="81">
+          <caret line="3" column="63" lean-forward="false" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -3004,84 +2983,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/QueryProductServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeMainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="64" column="57" lean-forward="false" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
+        <state relative-caret-position="162">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#322#323#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mapper/QueryProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_util/src/main/resources/product.sql">
+    <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/pojo/RecParameter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/batchInsertDataTODatabase/InsertDataIntoDatabase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
-            <marker date="1520948063799" expanded="true" signature="1427:1455" ph=" INSERT statement (TEST)" />
-            <marker date="1520948063799" expanded="true" signature="1427:1459" ph=" INSERT statement (TEST)" />
-            <marker date="1520948063799" expanded="true" signature="1427:1481" ph=" INSERT statement (TEST)" />
+            <element signature="e#205#206#0" expanded="false" />
+            <element signature="e#223#224#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#283#284#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/redis/JedisPoolUtil.java">
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryPageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="129">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/constant/Constants.java">
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/searchProduct/SearchProduct.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticSearchProduct/ElasticSearchProduct.java">
+    <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticsearch/ElasticsearchConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1601">
-          <caret line="88" column="50" lean-forward="false" selection-start-line="88" selection-start-column="50" selection-end-line="88" selection-end-column="50" />
-          <folding>
-            <element signature="docComment;method#bulkApi#0;class#ElasticSearchProduct#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="-373">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -3094,58 +3038,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/build.gradle">
+    <entry file="file://$PROJECT_DIR$/shop_search/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="870">
+          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_search/build.gradle">
+    <entry file="file://$PROJECT_DIR$/shop_background/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/DetailDisplayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/impl/DetailDisplayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="18" column="11" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/elasticSearchProduct/ElasticSearchProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="123" column="29" lean-forward="true" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_search/src/test/java/test/ElasticSearchProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/SpringBootSearchMainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="243">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeMainClass.java">
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/search/SearchProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="297">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/build.gradle">
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/GetListByPageService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="63" lean-forward="true" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="108">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -3153,32 +3131,93 @@
     <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/QueryPageService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="24" />
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="48" lean-forward="true" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/service/SearchProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_search/src/main/java/com/search/service/Impl/SearchProductImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="37" column="65" lean-forward="true" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/QueryPageServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        <state relative-caret-position="501">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryPageController.java">
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/SearchProductService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="297">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/service/impl/SearchProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/QueryProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="567">
+          <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/SearchProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -43,14 +43,14 @@ dependencies {
             "com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:$jackson_version",
             "org.apache.shiro:shiro-spring:$shiro_version",
             "org.quartz-scheduler:quartz:$quartz_version",
-            "com.belerweb:pinyin4j:$pinyin4j_version",
+//            "com.belerweb:pinyin4j:$pinyin4j_version",
             "org.apache.poi:poi:$poi_version",
             "org.apache.poi:poi-ooxml-schemas:$poi_version",
             "org.apache.poi:poi-ooxml:$poi_version",
             "org.apache.commons:commons-io:$commons_io_version",
             "com.itextpdf:itextpdf:$itext_version",
             "com.itextpdf:itext-asian:$itext_version",
-            "org.apache.logging.log4j:log4j-core:$log4j_version",
+//            "org.apache.logging.log4j:log4j-core:$log4j_version",
             "org.mybatis.spring.boot:mybatis-spring-boot-starter:$mybatis_spring_boot_version",
 
     )
