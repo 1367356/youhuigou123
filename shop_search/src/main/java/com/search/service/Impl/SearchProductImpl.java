@@ -43,7 +43,9 @@ public class SearchProductImpl implements SearchProduct{
         client=new ElasticsearchConfig().getElasticsearchClient();
     }
 
-    @Override
+    /**
+     * 创建索引，并在需要的字段指定分词器，如果字段指定为ik，那么在搜索查询时，会对输入的搜索文本进行ik分词。
+     */
     public void createIndexMappingUseIK() {
         //创建映射
         XContentBuilder mapping = null;
@@ -77,7 +79,9 @@ public class SearchProductImpl implements SearchProduct{
         client.admin().indices().putMapping(putmap).actionGet();
     }
 
-    @Override
+    /**
+     * 对elasticsearch批量创建索引，并添加数据
+     */
     public void bulkCreateIndexAndAddData() {
 
         //        createIndexMappingUseIK();  //创建映射，指定ik分词
@@ -88,7 +92,7 @@ public class SearchProductImpl implements SearchProduct{
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        List listProduct = re.readExcel(file);
+        List listProduct = re.readExcel(file);  //读取excel中的数据进入list
 
         //创建批量创建请求
         BulkRequestBuilder bulkRequest = client.prepareBulk();
@@ -97,7 +101,7 @@ public class SearchProductImpl implements SearchProduct{
         int i=0;
         while (iterator.hasNext()){
             Product product = iterator.next();
-
+            //向搜索中逐条添加数据
             try {
                 bulkRequest.add(client.prepareIndex("product", "product", ""+i++)  //id 可以作为pid使用
                         .setSource(jsonBuilder()
@@ -129,13 +133,17 @@ public class SearchProductImpl implements SearchProduct{
         }
     }
 
-    @Override
+    /**
+     * 搜索
+     * @param text 搜索内容
+     * @return  搜索结果
+     */
     public MyJSONObject productSearch(String text) {
         SearchResponse response1 = client.prepareSearch("product")  //指定多个索引
                 .setTypes("product")  //指定类型
                 .setSearchType(SearchType.QUERY_THEN_FETCH)
-                .setQuery(QueryBuilders.matchQuery("name", text))  // Query
-//                .setPostFilter(QueryBuilders.rangeQuery("age").from(12).to(18))     // Filter
+                .setQuery(QueryBuilders.matchQuery("name", text))  // Query，匹配查询
+//                .setPostFilter(QueryBuilders.rangeQuery("age").from(12).to(18))     // Filter，过滤
                 .setFrom(0).setSize(60).setExplain(true)
                 .get();
 
@@ -144,7 +152,7 @@ public class SearchProductImpl implements SearchProduct{
         JSONArray jsonArray = new JSONArray();
         JSONObject jsonObject = new JSONObject();
         for (int i = 0; i < searchHits.length; i++) {
-            Map<String, DocumentField> fields = searchHits[i].getFields();
+            Map<String, DocumentField> fields = searchHits[i].getFields(); //得到搜索DocumentField
             String sourceAsString = searchHits[i].getSourceAsString();
             jsonObject.put(i+"",sourceAsString);
             jsonArray.add(jsonObject);

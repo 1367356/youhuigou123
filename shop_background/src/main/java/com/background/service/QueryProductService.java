@@ -17,7 +17,7 @@ public interface QueryProductService {
     Product QueryProductByid(@QueryParam("id") String id);
 
     /**
-     * 查询商品根据Uid
+     * 根据页数查询商品
      * @return
      */
     @Path("/QueryProductByPage")

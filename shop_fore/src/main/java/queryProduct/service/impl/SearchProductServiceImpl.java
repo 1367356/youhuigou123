@@ -65,7 +65,11 @@ public class SearchProductServiceImpl implements SearchProductService{
         return;
     }
 
-    @Override
+    /**
+     * 根据文本内容进行搜索，返回的是xml形式的pojo，需要进行xml到json的转化。
+     * @param text
+     * @return
+     */
     public JSONObject productSearch(String text) {
         HttpResponse httpResponse;
         Product product=null;

@@ -1,9 +1,8 @@
-package com.background.service.impl;
+package browserTest;
 
 import java.util.List;
 
 import com.background.dao.mapper.DetailDisplayMapper;
-import com.background.service.DetailDisplayService;
 import data.pojo.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

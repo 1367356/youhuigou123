@@ -19,16 +19,30 @@ public class SearchProductController {
     Logger logger = LogManager.getLogger(SearchProductController.class);
     @Autowired
     SearchProductServiceImpl searchProductService;
+
+    /**
+     * 为elasticsearch 创建索引，字段指定分词为ik分词
+     * @param recParameter
+     */
     @RequestMapping("/createIndexMappingUseIK")
     public void createIndexMappingUseIK(RecParameter recParameter) {
         searchProductService.createIndexMappingUseIK();
     }
 
+    /**
+     * 创建索引并添加数据
+     * @param recParameter
+     */
     @RequestMapping("/bulkCreateIndexAndAddData")
     public void bulkCreateIndexAndAddData(RecParameter recParameter) {
         searchProductService.bulkCreateIndexAndAddData();
     }
 
+    /**
+     * 根据文本内容进行搜索
+     * @param recParameter 接受参数
+     * @return
+     */
     @RequestMapping("/productSearch")
     @ResponseBody
     public JSONPObject productSearch(RecParameter recParameter) {

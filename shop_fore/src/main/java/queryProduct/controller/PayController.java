@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("PayController")
 public class PayController {
 
+    /**
+     * 阿里支付
+     * @return  支付页面的html形式
+     */
     @RequestMapping("/alipay")
     public String alipay() {
         AliPayUtil aliPayUtil=new AliPayUtil();

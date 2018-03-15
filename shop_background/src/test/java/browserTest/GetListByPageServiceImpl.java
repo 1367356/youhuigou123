@@ -1,9 +1,8 @@
-package com.background.service.impl;
+package browserTest;
 
 import java.util.List;
 
 import com.background.dao.mapper.GetListByPageMapper;
-import com.background.service.GetListByPageService;
 import data.pojo.Product;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

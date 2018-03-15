@@ -14,7 +14,7 @@ public class ReadExcel {
 	// 去读Excel的方法readExcel，该方法的入口参数为一个File对象
 	public List readExcel(File file) {
 //		int[] arr={0,1,2,4,6,7,13,15,17,18,19,20};
-		int[] arr={3,4,6,0,7,11,2,12,10,14,15,16};
+		int[] arr={3,4,6,0,7,11,2,12,10,14,15,16}; //读取excel第几列。
 		try {
 			// 创建输入流，读取Excel
 			InputStream is = new FileInputStream(file.getAbsolutePath());

@@ -28,6 +28,12 @@ public class WriteExcel {
 		writeExcel(excelList, fields.length, "D:/javatest/test.xlsx");
 	}
 
+	/**
+	 * 向excel中写入数据。
+	 * @param dataList 数据源，以list形式存放
+	 * @param cloumnCount 多少列
+	 * @param finalXlsxPath 存放路径
+	 */
 	public static void writeExcel(List<Product> dataList, int cloumnCount,String finalXlsxPath){
 		OutputStream out = null;
 		try {

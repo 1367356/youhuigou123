@@ -28,6 +28,11 @@ public class QueryProductController {
     Logger log= LogManager.getLogger(QueryProductController.class);
     HttpUtil httpUtil=new HttpUtil();
 
+    /**
+     * 根据商品Id查询商品，以Get请求形式，以jsonp的形式返回
+     * @param recParameter 接受的参数pojo
+     * @return 查询到的商品
+     */
     @RequestMapping("/queryProductByPidGet")
     @ResponseBody
     public JSONPObject queryProductByPidGet(RecParameter recParameter){
@@ -36,7 +41,7 @@ public class QueryProductController {
         String callback = recParameter.getCallback();
 
         Map requestParamMap = new HashMap();
-        requestParamMap.put("id",id);
+        requestParamMap.put("id",id);  //rul请求中 的参数，以map形式存放
 
         String url=new Constants().backgroundURL+"/QueryProductService/QueryProductBypid";
         HttpResponse httpResponse;
@@ -44,8 +49,8 @@ public class QueryProductController {
         com.alibaba.fastjson.JSONObject jsonObject=null;
         try {
             httpResponse = httpUtil.HttpGet(requestParamMap, url);
-            HttpEntity entity = httpResponse.getEntity();
-            String s = EntityUtils.toString(entity);
+            HttpEntity entity = httpResponse.getEntity();  //得到响应实体
+            String s = EntityUtils.toString(entity);      //实体转化为字符串
             //将返回的xml字符串形式转化为json格式
             org.json.JSONObject xmlJSONObj = XML.toJSONObject(s);
             jsonObject = (JSONObject) JSON.parse(xmlJSONObj.toString());
