@@ -1,0 +1,38 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/shrio
+    username: root
+    password: 1367356
+  mvc:
+    view:
+      prefix: /jsp/
+      suffix: .jsp
+#  jpa:
+#    show-sql: true
+#  jackson:
+#    default-property-inclusion: non_null
+#    date-format: yyyy-MM-dd HH:mm:ss
+#    time-zone: GMT+8
+##  data:
+#    elasticsearch:
+#      cluster-nodes: localhost:9300
+  devtools:
+    restart:
+      enabled: true
+#  http:
+#    multipart:
+#      max-file-size: 10Mb
+
+#cxf:
+#  path: /services
+#  servlet.init:
+#    service-list-path: /info
+#  jaxrs:
+#    component-scan: true
+
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml   #Mapper所在的配置文件路径，进行扫描
+  config-location: classpath:mybatis/mybatis-config.xml  # mybaits-config文件
+#  type-aliases-package: com.liyafei.dao.pojo  # pojo所在的包，与表一一对应
+

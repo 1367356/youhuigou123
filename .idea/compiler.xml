@@ -14,6 +14,8 @@
       <module name="shop_pay_test" target="1.8" />
       <module name="shop_search_main" target="1.8" />
       <module name="shop_search_test" target="1.8" />
+      <module name="shop_shrio_main" target="1.8" />
+      <module name="shop_shrio_test" target="1.8" />
       <module name="shop_util_main" target="1.8" />
       <module name="shop_util_test" target="1.8" />
       <module name="youhuigou_main" target="1.8" />

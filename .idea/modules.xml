@@ -20,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_search.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_search.iml" group="shop_search" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_search/shop_search_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_main.iml" group="shop_search" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_search/shop_search_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_search/shop_search_test.iml" group="shop_search" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_shrio.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_shrio.iml" group="shop_shrio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_shrio/shop_shrio_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_shrio/shop_shrio_main.iml" group="shop_shrio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_shrio/shop_shrio_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_shrio/shop_shrio_test.iml" group="shop_shrio" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_util.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_util.iml" group="shop_util" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_util/shop_util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_main.iml" group="shop_util" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop_util/shop_util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop_util/shop_util_test.iml" group="shop_util" />

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xyy.springboot.shiro.mapper.UserMapper">
+    <resultMap type="com.li.dao.User" id="userMap">
+        <id property="uid" column="uid"/>
+        <result property="username" column="username"/>
+        <result property="password" column="password"/>
+        <collection property="roles" ofType="com.li.dao.Role">
+            <id property="rid" column="rid"/>
+            <result property="rname" column="rname"/>
+            <collection property="modules" ofType="com.li.dao.Module">
+                <id property="mid" column="mid"/>
+                <result property="mname" column="mname"/>
+            </collection>
+        </collection>
+    </resultMap>
+    <select id="findByUserName" parameterType="string" resultMap="userMap">
+        SELECT u.*,r.*,m.* FROM user u inner join user_role ur on ur.uid=u.uid
+        inner join role r on r.rid=ur.rid
+        inner join module_role mr on mr.rid=r.rid
+        inner join module m on mr.mid=m.mid
+        WHERE username=#{username};
+    </select>
+</mapper>

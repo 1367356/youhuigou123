@@ -6,4 +6,5 @@ include 'shop_search'
 include 'shop_util'
 include 'shop_pay'
 include 'shop_domain'
+include 'shop_shrio'
 
