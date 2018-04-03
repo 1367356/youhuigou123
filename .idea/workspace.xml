@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a26fee4-f372-496d-955f-e877eb80ded6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/.babelrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/.editorconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/.postcssrc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/build.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/check-versions.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/utils.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/vue-loader.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/webpack.base.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/webpack.dev.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/build/webpack.prod.conf.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/config/dev.env.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/config/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/config/prod.env.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/App.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/assets/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/common/js/util.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/common/scss/base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/common/scss/normalize.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/components/Discount.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/components/Header.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/components/KindNav.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/components/Search.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/components/模板.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/main.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/src/router/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/shop_fore/src/main/resources/static/static/.gitkeep" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/classes/com/background/SpringBootBackgrouondMainClass.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/classes/com/background/service/DetailDisplayService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/classes/com/background/service/GetListByPageService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/classes/com/background/service/impl/DetailDisplayServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/classes/com/background/service/impl/GetListByPageServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/application.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/log4j2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/logs/debug.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/mybatis/mapper/DetailDisplayMapper.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/mybatis/mapper/GetListByPageMapper.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/mybatis/mapper/QueryProductMapper.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/mybatis/mybatis-config.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_background/out/production/resources/product.sql" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/PayController.class" afterPath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/PayController.class" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryPageController.class" afterPath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryPageController.class" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryProductController.class" afterPath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/QueryProductController.class" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/SearchProductController.class" afterPath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/controller/SearchProductController.class" />
-      <change beforePath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/service/impl/SearchProductServiceImpl.class" afterPath="$PROJECT_DIR$/shop_fore/out/production/classes/queryProduct/service/impl/SearchProductServiceImpl.class" />
-      <change beforePath="$PROJECT_DIR$/shop_pay/out/production/classes/com/egzosn/pay/ali/controller/AliPayUtil.class" afterPath="$PROJECT_DIR$/shop_pay/out/production/classes/com/egzosn/pay/ali/controller/AliPayUtil.class" />
-      <change beforePath="$PROJECT_DIR$/shop_util/out/production/classes/data/excel/WriteExcel.class" afterPath="$PROJECT_DIR$/shop_util/out/production/classes/data/excel/WriteExcel.class" />
-    </list>
+    <list default="true" id="3a26fee4-f372-496d-955f-e877eb80ded6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -143,36 +89,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="dev.env.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/商品购/商品购/config/dev.env.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/商品购/商品购/config/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/static/build/build.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".postcssrc.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/static/.postcssrc.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -203,21 +119,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            <state relative-caret-position="952">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringBootForeApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeApplication.java">
+      <file leaf-file-name="SpringBootBackgrouondApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBootBackgrouondApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryProductService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PayController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/PayController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringBootForeApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -236,8 +182,8 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="405">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -2465,6 +2411,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -2472,6 +2420,41 @@
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
               <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="shop_background" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="background" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
@@ -2514,7 +2497,9 @@
               <item name="shop_fore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="queryProduct" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
@@ -2523,24 +2508,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youhuigou" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youhuigou" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="shop_fore" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2830,11 +2802,19 @@
       <configuration name="RedisUtil.testString" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297362" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3681055" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2845,10 +2825,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16469957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1668455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18944845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.090665236" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2861,7 +2842,6 @@
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4028777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.382494" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18944845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2886,13 +2866,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/mybatis/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_background/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -3040,20 +3013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBootBackgrouondApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_util/src/main/java/data/redis/JedisPoolUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -3160,14 +3119,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -3180,14 +3131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -3210,8 +3153,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/SpringBootBackgrouondApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="43" column="28" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_background/src/main/java/com/background/service/QueryProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/controller/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop_fore/src/main/java/queryProduct/SpringBootForeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
           <folding />
         </state>
       </provider>
